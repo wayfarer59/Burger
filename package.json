@@ -1,0 +1,26 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "HomeWork week of 14",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayfarer59/Burger.git"
+  },
+  "author": "kivanc bilgin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayfarer59/Burger/issues"
+  },
+  "homepage": "https://github.com/wayfarer59/Burger#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "handlebars": "^4.0.8",
+    "method-override": "^2.3.8",
+    "mysql": "^2.13.0"
+  }
+}
